@@ -1,4 +1,4 @@
-// Coderbyte Longest Word Algorithm Challange
+//* Coderbyte Longest Word Algorithm Challange
 
 function longestWord(str) {
 
